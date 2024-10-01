@@ -1,24 +1,33 @@
+
+
 # Competitive Programming Repository
-This is the repository for **non-Japanese** competitive programmers.
 
-I want to share many things about algorithms and programming contests.
+Welcome to the **Competitive Programming Repository**, a resource for competitive programmers around the world, particularly those **outside Japan**. This repository aims to share valuable insights, algorithms, and strategies related to programming contests, helping you enhance your skills and prepare for competitions.
 
-Let's read, learn and have fun!
+Feel free to explore, learn, and have fun while improving your competitive programming abilities!
 
-<br />
+---
 
-# Who am I
-* Name: Masataka Yoneda
-* Affiliation: The University of Tokyo
-* Hobby: Competitive Programming
-* AtCoder Account: [E869120](https://atcoder.jp/users/E869120), Max Rating = 2935 (Red)
-* CodeForces Account: [E869120](https://codeforces.com/profile/E869120), Max Rating = 2909 (International Grandmaster)
-* International Olympiad in Informatics '18, '19, '20 Gold Medalist
-* The author of article "A Way to Practice Competitive Programming"
+## About the Author
 
-<br />
+**Name**: Masataka Yoneda  
+**Affiliation**: The University of Tokyo  
+**Hobby**: Competitive Programming
 
-# Articles
-There is **1 article** in this repository.
+### Competitive Programming Achievements:
+- **AtCoder**: [E869120](https://atcoder.jp/users/E869120) (Max Rating: 2935 - Red)  
+- **Codeforces**: [E869120](https://codeforces.com/profile/E869120) (Max Rating: 2909 - International Grandmaster)  
+- **International Olympiad in Informatics (IOI)**: 2018, 2019, 2020 **Gold Medalist**  
+- Author of the article: *"A Way to Practice Competitive Programming"*
 
-* [Tutorial: A Way to Practice Competitive Programming.pdf](https://github.com/E869120/Competitive-Programming/blob/master/%5BTutorial%5D%20A%20Way%20to%20Practice%20Competitive%20Programming.pdf)
+---
+
+## Available Articles
+
+This repository currently includes **one article**:
+
+- [Tutorial: A Way to Practice Competitive Programming (PDF)](https://github.com/E869120/Competitive-Programming/blob/master/%5BTutorial%5D%20A%20Way%20to%20Practice%20Competitive%20Programming.pdf)
+
+---
+
+Stay tuned for more content related to algorithms, problem-solving techniques, and competitive programming tips!
